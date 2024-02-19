@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.207af588.css",
-    "main.js": "/static/js/main.df1a78cc.js",
+    "main.js": "/static/js/main.d2f07313.js",
     "static/media/VirtuWear.png": "/static/media/VirtuWear.aed594fb9d42354e4c26.png",
     "static/media/whatsgoodie.jpg": "/static/media/whatsgoodie.4bdd98ef1b229a7fd869.jpg",
     "static/media/csedu.png": "/static/media/csedu.3edd20ccdaf33d9502ce.png",
@@ -17,10 +17,10 @@
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
     "main.207af588.css.map": "/static/css/main.207af588.css.map",
-    "main.df1a78cc.js.map": "/static/js/main.df1a78cc.js.map"
+    "main.d2f07313.js.map": "/static/js/main.d2f07313.js.map"
   },
   "entrypoints": [
     "static/css/main.207af588.css",
-    "static/js/main.df1a78cc.js"
+    "static/js/main.d2f07313.js"
   ]
 }
