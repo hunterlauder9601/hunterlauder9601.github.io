@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.207af588.css",
-    "main.js": "/static/js/main.d2f07313.js",
+    "main.js": "/static/js/main.6aba0dfd.js",
+    "static/media/tunetap-thumbnail.png": "/static/media/tunetap-thumbnail.d7c8f6c63736efab77a4.png",
     "static/media/VirtuWear.png": "/static/media/VirtuWear.aed594fb9d42354e4c26.png",
     "static/media/whatsgoodie.jpg": "/static/media/whatsgoodie.4bdd98ef1b229a7fd869.jpg",
     "static/media/csedu.png": "/static/media/csedu.3edd20ccdaf33d9502ce.png",
@@ -17,10 +18,10 @@
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
     "main.207af588.css.map": "/static/css/main.207af588.css.map",
-    "main.d2f07313.js.map": "/static/js/main.d2f07313.js.map"
+    "main.6aba0dfd.js.map": "/static/js/main.6aba0dfd.js.map"
   },
   "entrypoints": [
     "static/css/main.207af588.css",
-    "static/js/main.d2f07313.js"
+    "static/js/main.6aba0dfd.js"
   ]
 }
